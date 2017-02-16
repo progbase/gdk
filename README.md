@@ -15,7 +15,10 @@
 
 ---
 
-[Дошка](https://trello.com/b/WcNKVhkJ/-) 
+[Дошка](https://trello.com/b/WcNKVhkJ/-)
+
+---
+ 
 [Документація проекта](https://docs.google.com/document/d/1Pkr4eVT0JklwIVNANHspvdhejtbpeN4MJKc0MzxfdmQ/)
 
 ---
