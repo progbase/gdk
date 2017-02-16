@@ -6,17 +6,17 @@
 
 **Склад команди:**
 
-Віталіна Мірошник (*Product Owner*)
-Ілья Шкуренко (*Scrum Master*)
-Олександр Дюкарев (*Team Lead*)
-Микола Мединський (*QA Lead*)
-Данило Дзенік (*Розробник/Тестувальник*)
-Микита Маслов (*Розробник/Тестувальник*)
+Віталіна Мірошник (**_Product Owner_**) 
+Ілья Шкуренко (**_Scrum Master_**) 
+Олександр Дюкарев (**_Team Lead_**) 
+Микола Мединський (**_QA Lead_**) 
+Данило Дзенік (**_Розробник/Тестувальник_**) 
+Микита Маслов (**_Розробник/Тестувальник_**) 
 
 ---
 
-[Посилання на дошку](https://trello.com/b/WcNKVhkJ/-)
-[Посилання на документацію проекта](https://docs.google.com/document/d/1Pkr4eVT0JklwIVNANHspvdhejtbpeN4MJKc0MzxfdmQ/)
+[Дошка](https://trello.com/b/WcNKVhkJ/-) 
+[Документація проекта](https://docs.google.com/document/d/1Pkr4eVT0JklwIVNANHspvdhejtbpeN4MJKc0MzxfdmQ/)
 
 ---
 
