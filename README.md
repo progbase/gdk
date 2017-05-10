@@ -1,6 +1,6 @@
 # README
 
-**Назва команди:** *in progress*
+**Назва команди:** PrintTeam
 
 ---
 
@@ -15,13 +15,29 @@
 
 ---
 
+**Назва проекта:** Plotter 
+
+---
+
+**_Sprint 1_**: 
+
+	*Мета:* Продемонструвати малювання простих фігур
+	*Backlog:* [link](https://docs.google.com/document/d/1Pkr4eVT0JklwIVNANHspvdhejtbpeN4MJKc0MzxfdmQ/)
+	*Дата проведення демонстрації:* 6.04.2017 8:30
+	
+**_Artifacts_**: 
+
 [Дошка](https://trello.com/b/WcNKVhkJ/-)
-
 ---
- 
 [Документація проекта](https://docs.google.com/document/d/1Pkr4eVT0JklwIVNANHspvdhejtbpeN4MJKc0MzxfdmQ/)
-
+---
+[Перша презентація](https://docs.google.com/presentation/d/1OY_tqmEDnNz6hrbzQ7ytALHOpbBxI2-pYZAZCOH-Im4/)
+---
+[Друга презентація](https://docs.google.com/presentation/d/1UKvrilGTcnLewPC7UgFHKMzLJuBw65j8lEtUlAgVeBo/)
+---
+[Беклог](https://docs.google.com/spreadsheets/d/1JVIrdSNkkqdG2RSLHyG2HKRIE9UhnrqPDRy3gCZOlGo/)
+---
+[Burndown Chart](https://docs.google.com/spreadsheets/d/19KKF0ZNmHPPWMTa3YHdzxx7NwX1hhEt0l8ualjpYSPQ/)
 ---
 
-**Назва проекта:** *in progress*
 
