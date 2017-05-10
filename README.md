@@ -1,6 +1,6 @@
 # README
 
-**Назва команди:** *in progress*
+**Назва команди:** *PrintTeam*
 
 ---
 
@@ -15,13 +15,10 @@
 
 ---
 
-[Дошка](https://trello.com/b/WcNKVhkJ/-)
+**Назва проекта:** *Plotter*
 
 ---
+
+[Дошка](https://trello.com/b/WcNKVhkJ/-)
  
 [Документація проекта](https://docs.google.com/document/d/1Pkr4eVT0JklwIVNANHspvdhejtbpeN4MJKc0MzxfdmQ/)
-
----
-
-**Назва проекта:** *in progress*
-
