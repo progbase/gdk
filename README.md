@@ -1,13 +1,10 @@
 # PLOTTER
----
-Рік випуску: 2017
----
-Версія: 1.2.1
----
-Розробник: PrintTeam
----
-Платформа: Windows
----
+
+Рік випуску: 2017<br/>
+Версія: 1.2.1<br/>
+Розробник: PrintTeam<br/>
+Платформа: Windows<br/>
+<br/>
 
 # Складання схеми Arduino:
 Наша команда радить використати цей [гайд](https://create.arduino.cc/projecthub/Mrinnovative/arduino-based-mini-cnc-2d-plotter-234462). Там є відео про збірку плоттера.
