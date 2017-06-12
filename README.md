@@ -24,7 +24,7 @@
 Для завантаження коду необхідно:
 1. Мати в наявності середовище [Arduino IDE](https://www.arduino.cc/en/main/software) (important:>=2.4).
 1. Завантажити та встановити бібліотеку [Adafruit Motor shield](https://github.com/adafruit/Adafruit-Motor-Shield-library).
-2. Відкрити [файл](https://github.com/dyuk99/gdk/blob/master/cd_carriage/cd_carriage.ino) у Arduino IDE.
+2. Відкрити [файл](https://github.com/progbase/gdk/blob/master/samples/basic_servo_motor.ino) у Arduino IDE.
 3. Підключити плату до комп'ютера за допомогою USB-кабеля.
 4. Завантажити код на плату за допомогою клавіші "Upload" або комбінації клавіш "Ctrl+U".
  
@@ -43,7 +43,11 @@
 
 # Результати роботи пристрою
 
+Рисунки:
+
 ![samples](https://trello-attachments.s3.amazonaws.com/55c9eb62b3c625897bfd3b48/593c63227a0f59630b5df691/dbf4feb296a65ec269419807fd697dd8/pixlr_20170611002140247.jpg)
+
+[Відео процесу рисування](https://youtu.be/XvzxU51w5mE).
 
 Код для даних рисунків можна знайти у директорії [`/samples`](https://github.com/progbase/gdk/tree/master/samples).
 
